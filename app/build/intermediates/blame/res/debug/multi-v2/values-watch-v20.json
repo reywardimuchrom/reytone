@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/vrijkocdh/Downloads/Reytone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c107d20a09b19239821e01a5524cb58f/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

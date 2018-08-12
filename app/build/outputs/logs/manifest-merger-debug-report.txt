@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [nl.bravobit:android-ffmpeg:1.1.5] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/android-ffmpeg-1.1.5.aar/27d41c2926a382686f28cc10320d08a0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c107d20a09b19239821e01a5524cb58f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/31debbbc9b1c4b5e405728b637e381df/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/17b3230e7a44873798268cc64224d5be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dfe640625c6da07ec902927291afd8d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e3eafbb760e192623cf66b9ee65482f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2692ec9cc13e0a448a1ec3f9c0bc79bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/83a0d2cc2e7d857b154afd7097a877f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cf72c181a0e5c10e094b87f8887f8047/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a9edc7c7793438f724d14dbe53e894d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e0a914f95c80b54ca0e1d9a2b2ba9963/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/13ff05d5f5612146a5ae6d312fda60ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/efbc1cad33a04b1b2f9bf9c13786b18c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/086fd247b9fb9115f4f89dfc7363395b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a0c5ea757bf7974143982bb71851b545/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:6:5-32
+		INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:4:5-43
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:12:22-68
+application
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:14:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/31debbbc9b1c4b5e405728b637e381df/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/31debbbc9b1c4b5e405728b637e381df/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:16:9-38
+	android:allowBackup
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:18:9-50
+activity#com.examples.reytone.AudioSourceActivity
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:19:9-56
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:19:19-54
+activity#com.examples.reytone.AudioGeneratorActivity
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:20:19-57
+activity#com.examples.reytone.ResultActivity
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:21:19-49
+activity#com.examples.reytone.HomeActivity
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:25:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+MERGED from [nl.bravobit:android-ffmpeg:1.1.5] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/android-ffmpeg-1.1.5.aar/27d41c2926a382686f28cc10320d08a0/AndroidManifest.xml:7:5-9:41
+MERGED from [nl.bravobit:android-ffmpeg:1.1.5] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/android-ffmpeg-1.1.5.aar/27d41c2926a382686f28cc10320d08a0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c107d20a09b19239821e01a5524cb58f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c107d20a09b19239821e01a5524cb58f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/31debbbc9b1c4b5e405728b637e381df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/31debbbc9b1c4b5e405728b637e381df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/17b3230e7a44873798268cc64224d5be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/17b3230e7a44873798268cc64224d5be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dfe640625c6da07ec902927291afd8d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dfe640625c6da07ec902927291afd8d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e3eafbb760e192623cf66b9ee65482f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e3eafbb760e192623cf66b9ee65482f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2692ec9cc13e0a448a1ec3f9c0bc79bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2692ec9cc13e0a448a1ec3f9c0bc79bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/83a0d2cc2e7d857b154afd7097a877f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/83a0d2cc2e7d857b154afd7097a877f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cf72c181a0e5c10e094b87f8887f8047/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cf72c181a0e5c10e094b87f8887f8047/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a9edc7c7793438f724d14dbe53e894d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a9edc7c7793438f724d14dbe53e894d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e0a914f95c80b54ca0e1d9a2b2ba9963/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e0a914f95c80b54ca0e1d9a2b2ba9963/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/13ff05d5f5612146a5ae6d312fda60ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/13ff05d5f5612146a5ae6d312fda60ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/efbc1cad33a04b1b2f9bf9c13786b18c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/efbc1cad33a04b1b2f9bf9c13786b18c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/086fd247b9fb9115f4f89dfc7363395b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/086fd247b9fb9115f4f89dfc7363395b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a0c5ea757bf7974143982bb71851b545/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/vrijkocdh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a0c5ea757bf7974143982bb71851b545/AndroidManifest.xml:20:5-44
+INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+		ADDED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vrijkocdh/Downloads/Reytone/app/src/main/AndroidManifest.xml
